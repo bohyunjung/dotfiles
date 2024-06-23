@@ -16,7 +16,7 @@
 # ZSH
 * zsh
 * oh-my-zsh
-* + plugins
+* plugins
 
 # Blog
 * hugo
