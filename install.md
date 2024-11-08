@@ -3,6 +3,7 @@
 * git
 * tree
 * tmux
+* D2 Coding
 
 # JS
 * node
