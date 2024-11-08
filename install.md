@@ -1,4 +1,5 @@
 # Essentials
+* iterm2
 * git
 * tree
 * tmux
@@ -17,7 +18,3 @@
 * zsh
 * oh-my-zsh
 * plugins
-
-# Blog
-* hugo
-
