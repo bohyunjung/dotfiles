@@ -4,6 +4,7 @@
 * tree
 * tmux
 * D2 Coding
+* homebrew
 
 # JS
 * node
